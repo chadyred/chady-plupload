@@ -1,0 +1,17 @@
+{
+  "name": "chady-plupload",
+  "description": "chady-plupload",
+  "version": "2.1.8",
+  "homepage": "https://github.com/chadyred/chady-plupload",
+  "license": "MIT",
+  "private": false,
+  "main" : [
+    "js/jquery.ui.plupload/css/jquery.ui.plupload.css",
+    "js/plupload.full.min.js",
+    "js/jquery.ui.plupload/jquery.ui.plupload.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chadyred/chady-plupload.git"
+  }
+}
