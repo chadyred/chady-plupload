@@ -10,6 +10,9 @@
     "js/plupload.full.min.js",
     "js/jquery.ui.plupload/jquery.ui.plupload.js"
   ],
+  "dependencies" : {
+    "jquery-ui" : "1.11.4"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/chadyred/chady-plupload.git"
